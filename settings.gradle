@@ -1,1 +1,3 @@
-rootProject.name = 'DataProcess'
+rootProject.name = 'data-processor'
+
+include 'data-processor_main'
